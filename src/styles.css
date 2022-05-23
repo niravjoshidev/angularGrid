@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import '../node_modules/ag-grid-community/dist/styles/ag-grid.min.css';
+@import '../node_modules/ag-grid-community/dist/styles/ag-theme-balham.min.css';
+@import '../node_modules/ag-grid-community/dist/styles/ag-theme-balham-dark.min.css';
+@import '../node_modules/ag-grid-community/dist/styles/ag-theme-alpine.min.css';
+@import '../node_modules/ag-grid-community/dist/styles/ag-theme-alpine-dark.min.css';
+@import '../node_modules/ag-grid-community/dist/styles/ag-theme-material.min.css';
+@import '../node_modules/ag-grid-community/dist/styles/ag-theme-material.min.css';
